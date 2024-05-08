@@ -1,4 +1,11 @@
-header{
+.cabecalho {
     background-color: #424e61;
-    color: rgb(230, 218, 218);
+    color:rgb(236, 236, 236);
+    display: flex;
+    display: ;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+
 }
