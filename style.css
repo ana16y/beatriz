@@ -1,11 +1,4 @@
-.cabecalho {
-    background-color: #424e61;
-    color:rgb(236, 236, 236);
-    display: flex;
-    justify-content: space-around;
-}
-
-.cabecalho-imagem{
-    width: 20%;
-
+header{
+    background-color: #424E61;
+    color: white;
 }
